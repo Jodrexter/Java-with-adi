@@ -1,9 +1,11 @@
 public class main {
     public static void main(String[] args){
-        System.out.println("I like pizza ");
-        System.out.println("It is really good");
-        int x = 5;
+        int x = 8;
+        int y = 2;
         System.out.println(x);
+        System.out.println(x+y);
+        System.out.println(x*y);
+        System.out.println(x/y);
 
     }
 }
