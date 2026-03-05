@@ -9,7 +9,7 @@ public class operator {
 
         ++x; // ++x means also same like x++ ()
         System.out.println(x); 
-        --x; // ++x means also same like x-- ()
+        --x; // ++x means also same like x--  ()
         System.out.println(x); 
 
 
