@@ -9,6 +9,10 @@ public class ps {
 
         double y = (x1 + x2 + x3 + x4 + x5)/5;
         System.out.println(y);
+
+
+
+        // Practice program.
     }
     
 }
